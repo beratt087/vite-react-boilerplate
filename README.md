@@ -12,6 +12,8 @@ First, install the dependencies:
    pnpm install
 ```
 
+Edit the `package.json` file to change the name of the project.
+
 Then, run the development server:
 
 ```bash
